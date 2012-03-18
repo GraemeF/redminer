@@ -1,6 +1,6 @@
 {
     "name": "redminer",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Graeme Foster <graemef@gmail.com>",
     "description": "Get stuff from Redmine",
     "contributors": [
